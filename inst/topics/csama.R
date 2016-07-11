@@ -1,0 +1,37 @@
+# Things you expect to encounter in CSMA course
+# Authors (GitHub handles):
+# nkurzawa, KaBach
+c (
+"edgeR vs. DEseq2",
+"Hadly Wickham",
+"Portugal vs. France",
+"Hypothesis Testing",
+"Mountainbiking",
+"Twitter",
+"RStudio",
+"Julia",
+"Bioconductor",
+"Differential Expression",
+"GitHub",
+"data.frame",
+"git vs. svn",
+"data_frame",
+"tibble",
+"dplyr",
+"pirates vs. ninjas",
+"vignette",
+"vino",
+"espresso",
+"Pizza",
+"sun burn",
+"sun creme",
+"Jenny Bryan",
+"commit",
+"push",
+"pull",
+"add",
+"stage",
+"I haven't installed all packages",
+"charging device",
+"I can't access the wifi
+)
